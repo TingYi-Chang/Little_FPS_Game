@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{D1C9EA1C-711D-89AD-83CB-039CFB6957A2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WirelessMotionController.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="22" Column="11" />
+      <File FileName="Assets/EnemyController.cs" Line="32" Column="10" />
+      <File FileName="Assets/Enemy.cs" Line="23" Column="26" />
+      <File FileName="Assets/Bullet.cs" Line="19" Column="21" />
+      <File FileName="Assets/Scripts/SocketClient.cs" Line="36" Column="63" />
+      <File FileName="Assets/Scripts/WirelessMotionController.cs" Line="32" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
